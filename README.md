@@ -1,4 +1,4 @@
-# Pumox
+# Zadanie testowe
 
 
 Aplikację wykonana z użyciem:
