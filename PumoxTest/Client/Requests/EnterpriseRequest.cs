@@ -32,10 +32,7 @@ namespace Client.Requests
                     writer.Close();
                 }
 
-                var response = await Task.Factory.StartNew(() =>
-                {
-                    return (HttpWebResponse)request.GetResponse();
-                }); 
+                var response = (HttpWebResponse)request.GetResponse();
 
                 using (var streamReader = new StreamReader(response.GetResponseStream()))
                 {

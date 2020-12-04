@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjektyProgramistyczne\\Pumox\\PumoxTest\\Pumox.Model\\Pumox.Model.csproj",
+      "projectUniqueName": "E:\\ProjektyProgramistyczne\\Pumox3\\PumoxTest\\Pumox.Model\\Pumox.Model.csproj",
       "projectName": "Pumox.Model",
-      "projectPath": "E:\\ProjektyProgramistyczne\\Pumox\\PumoxTest\\Pumox.Model\\Pumox.Model.csproj",
+      "projectPath": "E:\\ProjektyProgramistyczne\\Pumox3\\PumoxTest\\Pumox.Model\\Pumox.Model.csproj",
       "packagesPath": "C:\\Users\\dokul\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjektyProgramistyczne\\Pumox\\PumoxTest\\Pumox.Model\\obj\\",
+      "outputPath": "E:\\ProjektyProgramistyczne\\Pumox3\\PumoxTest\\Pumox.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

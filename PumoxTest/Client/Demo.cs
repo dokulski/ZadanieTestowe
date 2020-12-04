@@ -23,13 +23,10 @@ namespace Client
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                throw ex;
             }
         }
         public static void PostEnterprise(EnterpriseCreateModel model)
         {
-
-
                 var request = new EnterpriseRequestHandler();
                 var enterprise = new EnterpriseCreateModel();
 
