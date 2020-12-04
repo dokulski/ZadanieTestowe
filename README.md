@@ -1,7 +1,7 @@
 # Zadanie testowe
 
 
-Aplikację wykonana z użyciem:
+Aplikacja wykonana z użyciem:
 ms server 2016
 vs 2019 (.net framework 4.7.2)
 bibliotek:
